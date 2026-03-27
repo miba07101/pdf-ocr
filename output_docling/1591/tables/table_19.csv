@@ -1,0 +1,4 @@
+﻿0,1,2
+"LOW,(ref) p and LOW,(act) p",[Pa],different low pressures for 'reference' and 'actual' conditions
+") HIGH,(ref p and HIGH,(act) p",[Pa],different high pressures for 'reference' and 'actual' conditions
+"P,(ref) L and P,(act) L",[mg/s],leakage rates related to the pressure differences for

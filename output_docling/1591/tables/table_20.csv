@@ -1,0 +1,6 @@
+﻿Step,Coefficient definition,result,unit
+Determination of the 'reference' leakage rate from EN 13555 test results for each situation,,"L [dG, P, T, medium](ref)",mg/s/m
+Correction for real flange connection dimension,"1000 Gmean,(act) D d K =","L [dG](act),[P, T, medium](ref)",mg/s
+"Correction for fluid pressure (only the pressure effect in the leak path is taken into account, the effect of pressure on the flange connection mechanical behaviour is not taken into account here)",") (ref (act) p p ∆ ∆ > , then ) (ref ) (ref (act) (act) * * P p P p K P ∆ ∆ = If ) (ref (act) p p ∆ ∆ < , then ) (ref (act) p p K P ∆ ∆ =","L [dG, P](act),[T, medium](ref)",mg/s
+"Correction for temperature (only the temperature effect on the fluid is taken into account, the temperature effect on the gasket material behaviour is not taken into account)",,"L [dG, P,T](act),[medium](ref)",mg/s
+Correction for the medium and determination of the 'actual' leakage rate.,"        = Medium,(act) Medium,(ref) Medium,(act) ) edium,(ref T ; T T MAX K M η η         = Medium,(ref) Medium,(act) Medium,(act) Medium,(ref) M ; M M MAX K η η","L [dG, P,T, medium](act)",mg/s

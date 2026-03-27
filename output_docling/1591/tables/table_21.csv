@@ -1,0 +1,6 @@
+﻿,Step,Coefficient definition,result,unit
+From 'actual' to 'reference' Leakage rate,Leakage rate criteria for real conditions,,"L [dG, P,T, medium](act)",mg/s
+From 'actual' to 'reference' Leakage rate,Correction for the medium and determination of the 'actual' leakage rate.,"        = Medium,(act) Medium,(ref) Medium,(ref) Medium,(act) M ; ' M M MAX K η η","L [dG, P,T](act),[medium](ref)",mg/s
+From 'actual' to 'reference' Leakage rate,"Correction for temperature (only the temperature effect on the fluid is taken into account, the temperature effect on the gasket material behaviour is not taken into account)","        = Medium,(ref) Medium,(act) Medium,(ref) Medium,(act) T ; ' T T MAX K η η","L [dG, P](act),[T, medium](ref)",mg/s
+From 'actual' to 'reference' Leakage rate,"Correction for fluid pressure (only the pressure effect in the leak path is taken into account, the effect of pressure on the flange connection mechanical behaviour is not taken into account here)","If ) (ref (act) p p ∆ ∆ < , then (act) (act) ) (ref ) (ref * * ' P p P p K P ∆ ∆ = If ) (ref (act) p p ∆ ∆ > , then (act) ) (ref P ' p p K ∆ ∆ =","L [dG](act),[P, T, medium](ref)",mg/s
+From 'actual' to 'reference' Leakage rate,Correction for real flange connection dimension,"1000 ' Gmean,(act) D d K =","L [dG, P, T, medium](ref)",mg/s/m

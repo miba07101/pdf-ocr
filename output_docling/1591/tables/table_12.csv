@@ -1,0 +1,7 @@
+﻿j M,Range of Ψ opt,k M,"Ψ z (j S , k M , k S )"
+j M = + 1,Ψ max ≤ Ψ opt,k M = + 1,Ψ Z = Ψ max
+j M = + 1,Ψ 0 ≤ Ψ opt < Ψ max,k M = + 1,Ψ Z = Ψ opt
+j M = + 1,Ψ opt < Ψ 0,k M < + 1,"Ψ Z = Ψ (- 1, k M , + 1)"
+j M = - 1,Ψ opt ≤ Ψ min,k M = - 1,Ψ Z = Ψ min
+j M = - 1,Ψ min < Ψ opt ≤ Ψ 0,k M = - 1,Ψ Z = Ψ opt
+j M = - 1,Ψ 0 < Ψ opt,k M > - 1,"Ψ Z = Ψ (+ 1, k M , + 1)"

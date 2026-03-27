@@ -1,0 +1,4 @@
+﻿Knudsen Number K n,Type of Flow,Calculation Formula
+K n « 1,Laminar,( ) 2 2 4 16 o i p p L nr RT M m - = η π 
+1 ≤ K n ≤ 100,mixed,L p nr RT M RT M p nr m ∆ π ψ η π         + = 3 4 2 3 4 8 
+K n »100,molecular,p RT M L nr m ∆ π 2 3 4 3 = 

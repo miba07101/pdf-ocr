@@ -1,0 +1,8 @@
+﻿Bolting up (tightening) method; Measuring method.,Factors affecting scatter.,"Scatter value a, b, c, d.ε 1 -","Scatter value a, b, c, d.ε 1 +"
+Wrench: operator feel or uncontrolled,"Friction, Stiffness, Qualification of operator","0,3 + 0,5 x µ","0,3 + 0,5 x µ"
+Impact wrench,"Friction, Stiffness, Calibration","0,2 + 0,5 x µ","0,2 + 0,5 x µ"
+Torque wrench = Wrench with measuring of torque (only),"Friction, Calibration, Lubrification","0,1 + 0,5 x µ","0,1 + 0,5 x µ"
+Hydraulic tensioner; Measuring of hydraulic pressure,"Stiffness, Bolt length, Calibration","0,2","0,4"
+Wrench or hydraulic tensioner; Measuring of bolt elongation,"Stiffness, Bolt length, Calibration","0,15","0,15"
+"Wrench, Measuring of turn of nut (nearly to bolt yield)","Stiffness, Friction, Calibration","0,10","0,10"
+"Wrench, Measuring of torque and turn of nut (nearly to bolt yield)",Calibration,"0,07","0,07"

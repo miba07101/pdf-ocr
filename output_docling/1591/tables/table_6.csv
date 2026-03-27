@@ -1,0 +1,21 @@
+﻿0,1
+"M t,B","Twisting moment [N × mm] applied to bolt shanks as a result of application of the bolt assembly torque M t , Formula (B.9)"
+M TG,"Additional external torsion moment due to friction, Formula (95) and (104)"
+N R,"Number of re-assemblies and re-tightenings during service life of joint, Formulae (119), (2)"
+P,"Pressure of the fluid [MPa], internal pressure > 0, external pressure < 0 (1 bar = 0,1 MPa), Formula (91)"
+NOTE P in this,standard is equal to the maximum allowable pressure PS according to the PED.
+P QR,Creep factor which is the ratio of the residual and the original gasket surface pressure at load conditions [-] (Annex F).
+Q G,"Mean effective gasket compressive stress [MPa], Q G = F G / A Ge (57)"
+Q A,"Gasket surface pressure at assembly prior to the unloading which is necessary for the validity of the corresponding Q smin (L)I in all subsequent conditions [MPa], Formula (103).The lowest acceptable value for Q A is Q min (L) from EN 13555."
+"Q 0,min","Gasket surface pressure required at assembly prior to the unloading when no specific leak rate is requested [MPa], replacement of Q A in Formula (103), Annex G"
+Q min (L),Minimum level of gasket surface pressure required for tightness class L at assembly (on the effective gasket area) from EN 13555 test results [MPa] (see 7.4.2 NOTE 1)
+Q s min (L),"Minimum level of gasket surface pressure required for tightness class L in service conditions (on the effective gasket area) from EN 13555 test results [MPa], Formula (104)"
+Q smax,"Maximum gasket surface pressure that can be safely imposed upon the gasket at the considered temperature without damage [MPa], Formula (65), (70), (75) and (128)"
+"T B , T F , T G , T L , T W","Temperature (average) of the part designated by the subscript [°C] or [K], Formula (97)"
+T O,"Temperature of joint at assembly [°C] or [K] (usually + 20 °C), Formula (97)"
+U T,Axial displacement due to thermal effect [mm]; ∆U T according to Formula (97)
+"W F , W L , W X","Resistance of the part and/or cross-section designated by the subscript [N × mm], Formulae (130), (146), (150), (148)"
+"X B , X G, X w","Axial flexibility modulus of bolts, gasket, washer [1/ mm], Formulae (42), (63), (43), (49), (50)"
+"Y B, Y G , Y Q , Y R","Axial compliance of the bolted joint, related to F B , F G , F Q , F R [mm/N], Formulae (99), (100), (101), (102)"
+"Z F , Z L","Rotational flexibility modulus of flange, loose flange [mm -3 ], Formulae (34), (38), (35), (39), (40)"
+b 0,"Width of chamfer (or radius) of a loose flange such that: d 7min = d 6 +2× b 0 [mm], Figure 12, Formula (85)"

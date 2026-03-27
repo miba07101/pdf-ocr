@@ -1,0 +1,18 @@
+﻿0,1
+A B,"Effective total cross-section area of all bolts [mm 2 ], Formula (41)"
+"A F , A L","Gross radial cross-section area (including bolt holes) of flange ring, loose flange [mm 2 ], Formulae (10), (13) and (16)"
+"A Ge , A Gt","Gasket area, effective, theoretical [mm 2 ], Formulae (56), (53)"
+A Q,"Effective area for the axial fluid-pressure force [mm 2 ], Formula (90)"
+"E B , E F , E L E W","Modulus of elasticity of the part designated by the subscript, at the temperature of the part [MPa]"
+"E G,","Modulus of elasticity of the gasket for unloading/reloading at the considered temperature, considering the initial compressed thickness [MPa]"
+F A,"Additional external axial force [N], tensile force > 0, compressive force < 0, see Figure 1, Formulae (92) and (96)"
+F B,Bolt force (sum of all bolts) [N]
+F G,Gasket force [N]
+"F G∆,","Minimum gasket force in assembly condition [N] that guarantees, after all load changes, to subsequent conditions the required gasket force, Formulae (105), (106)"
+F L,"Force resulting from the additional radial forces [N], Formula (93) and (104)"
+F Q,"Axial fluid-pressure force [N], Formula (91)"
+F R,"Force resulting from the additional external loads [N], Formula (96)"
+"F X , F Y , F Z","Additional forces along X, Y and Z-axis at gasket interface [N], Formulae (92) and (93)"
+I,"Load condition identifier, for assembly condition I = 0, for subsequent conditions I = 1, 2, 3,..."
+M A,"Resulting external bending moment [N × mm], Figure 1, Formula (94) and (104)"
+M t,"Bolt assembly torque [N × mm], Formula (B.4)"
