@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
 dependencies = [
-    "camelot-py>=1.0.0",
     "pdfplumber>=0.11.0",
     "docling>=2.82.0",
     "marker-pdf[full]>=1.10.2",

@@ -1,0 +1,32 @@
+﻿0;1;2;3;4
+Bolt size a;d B 0[mm];d Be b [mm];d Bs;
+;;;[;mm]
+;;;c;d
+;;;;
+M6 x 1;6;5,06;-;5,3
+M8 x 1,25;8;6,83;-;7,1
+M10 x 1,5;10;8,59;-;9,0
+M12 x 1,75 e;12;10,36;8,5;10,8 f
+M14 x 2;14;12,12;10,0;12,7
+M16 x 2 e;16;14,12;12,0;14,7 f
+M18 x 2,5;18;15,65;-;16,3
+M20 x 2,5 e;20;17,65;15,0;18,3 f
+M22 x 2,5;22;19,65;-;20,3
+M24 x 3;24;21,19;18,0;22,0 f
+M27 x 3;27;24,19;20,5;25,0
+M30 x 3,5 e;30;26,72;23,0;27,7 f
+M33 x 3,5;33;29,72;25,5;30,7
+M36 x 4;36;32,25;27,5;33,4 f
+M39 x 4;39;35,25;30,5;36,4
+M42 x 4,5;42;37,78;32,5;39,0 f
+M45 x 4,5;45;40,78;35,5;42,0
+M48 x 5;48;43,31;37,5;44,7 f
+M52 x 5;52;47,31;41,0;48,7
+M56 x 5,5 e;56;50,84;44,0;52,4
+M60 x 5,5;60;54,84;-;56,4
+M64 x 6 e;64;58,37;51,0;60,1
+M68x 6;68;62,37;-;64,1
+M72 x 6 e;72;66,37;58,5;68,1
+M76 x 6;76;70,37;-;72,1
+M80 x 6;80;74,37;66,0;76,1
+"M90 x 6 90 84,37 75,0 86,1 pt M100 x 6 100 94,37 84,0 96,1 a For M6 to M64, the pitch is that of the normal series (according to ISO 261); up to and including M64 dBe the nominal dimensions conform to EN ISO 4014 and EN ISO 4016. b T d hBee va d luBe of d B corresponds to th d eB efollo d Bwing definition p :t = ( 2 + 3)/2 (see Figure 3); = 0 - 0,9382 × c Diameter of neck for necked-down bolts (dimensions not standardized by EN or IS d OB) d Body diameter for rolled thread (approximately equal to the basic pitch diameter 2 according to ISO 724). e";;;;
