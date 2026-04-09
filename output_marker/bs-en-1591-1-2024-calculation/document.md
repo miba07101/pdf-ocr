@@ -397,7 +397,7 @@ inverse stiffness modulus, excluding elastic constants of material:
 
 ![](_page_13_Figure_2.jpeg)
 
- $l_e = l_B - l_s$ 
+ $l_e = l_B - l_s$
 
 Figure 3 — Bolts
 
@@ -1914,7 +1914,7 @@ Minimum and maximum values of *FG*I, F*<sup>B</sup>*<sup>I</sup> are obtained fr
 $$F_{Gl\min} = \{ F_{G0\min} \times Y_{G0} \times P_{QRI} - [F_{QI} \times Y_{QI} + (F_{RI} \times Y_{RI} - F_{R0} \times Y_{R0}) + \Delta U_I^T] \} / Y_{GI}$$
  (C.7)
 
-$$F_{GImax} = \{F_{G0max} \times Y_{G0} \times P_{QRI} - [F_{QI} \times Y_{QI} + (F_{RI} \times Y_{RI} - F_{R0} \times Y_{R0}) + \Delta U_I^T]\} / Y_{GI}$$
+$$F_{Glmax} = \{F_{G0max} \times Y_{G0} \times P_{QRI} - [F_{QI} \times Y_{QI} + (F_{RI} \times Y_{RI} - F_{R0} \times Y_{R0}) + \Delta U_I^T]\} / Y_{GI}$$
  (C.8)
 
 $$F_{B \text{min}} = F_{G \text{min}} + \left(F_{QI} + F_{RI}\right) \tag{C.9}$$
@@ -2189,15 +2189,15 @@ If no load condition is indicated < () then additional plastic deformation does 
 
 If any load condition is indicated, < () = (), then some additional plastic deformation occurs. A new value () = (), should be assumed. The following rules are proposed:
 
-(a)
+(a) 
 $$e_{G(A),new} \approx 0.5 \times \{\min[e_{Ge(I)}] + e_{G(A),old}\}$$
  however:
 
-(b)
+(b) 
 $$e_{G(A),new} \ge 0.8 \times e_{G(A),old}$$
  however:
 
-(c)
+(c) 
 $$e_{G(A),new} \le e_{G(A),old} - \Delta e_{G(A),min}$$
 
 For changes () ≥ (),min the effective dimensions (), (),() and () should be calculated again. The calculation returns t[o 5.4.](#page-33-1)
